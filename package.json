@@ -1,0 +1,22 @@
+{
+    "name": "theme-kalopsiadarker",
+    "displayName": "theme-freesia",
+    "description": "Kalopsia Darker theme ported from Freesia",
+    "version": "0.0.1",
+    "publisher": "none",
+    "engines": {
+        "vscode": "^1.11.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Kalopsia Darker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Kalopsia%20Darker.tmTheme"
+            }
+        ]
+    }
+}
